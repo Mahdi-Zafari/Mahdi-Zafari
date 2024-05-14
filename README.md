@@ -2,7 +2,7 @@
 
 # Mahdi Zafari
 
-👋 Hello! I'm Mahdi Zafari, a leading programmer and developer specializing in web and software development. Here, you can explore my projects, achievements, and contributions in the technology world.
+👋 Hello! I'm **Mahdi Zafari**, a leading programmer and developer specializing in web and software development. Here, you can explore my projects, achievements, and contributions in the technology world.
 
 ## ℹ️ About Me
 
