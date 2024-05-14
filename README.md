@@ -47,8 +47,7 @@ This project is a complete e-commerce platform that allows vendors to sell their
 
 ## Contact Me
 
-- **Email:** mahdizafari@example.com
-- **LinkedIn:** [Mahdi Zafari](https://www.linkedin.com/in/mahdizafari)
+- **Email:** zafarim880@gamil.com
 - **Twitter:** [@mahdizafari](https://twitter.com/mahdizafari)
 
 ## Achievements and Honors
