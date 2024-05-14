@@ -2,8 +2,6 @@
 
 # Mahdi Zafari
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mahdi Zafari
-
 👋 Hello! I'm Mahdi Zafari, a leading programmer and developer specializing in web and software development. Here, you can explore my projects, achievements, and contributions in the technology world.
 
 ## About Me ℹ️
@@ -12,16 +10,16 @@ As a professional developer with extensive experience in various technologies, I
 
 ## Skills 🛠️
 
-- **Programming Languages:** Python 🐍, C# ⌨️
-- **Web Development:** HTML 🌐, CSS 🎨, JavaScript 🖥️, PHP 🌐
-- **Databases:** SQL 📊, MongoDB 📂
-- **Frameworks and Tools:** Django 🎻, Flask 🌿, ASP.NET 🛡️, Node.js 🚀, React ⚛️
+- **Programming Languages:** Python, C#
+- **Web Development:** HTML, CSS, JavaScript, PHP
+- **Databases:** SQL, MongoDB
+- **Frameworks and Tools:** Django, Flask, ASP.NET, Node.js, React
 
 ## Contact Me 📧
 
-- **Email:** mahdizafari@example.com 📩
-- **LinkedIn:** [Mahdi Zafari](https://www.linkedin.com/in/mahdizafari) 🔗
-- **Twitter:** [@mahdizafari](https://twitter.com/mahdizafari) 🐦
+- **Email:** mahdizafari@example.com
+- **LinkedIn:** [Mahdi Zafari](https://www.linkedin.com/in/mahdizafari)
+- **Twitter:** [@mahdizafari](https://twitter.com/mahdizafari)
 
 ## Achievements and Honors 🏆
 
@@ -33,9 +31,9 @@ As a professional developer with extensive experience in various technologies, I
 
 I am always eager to learn and develop new skills. Currently, I am interested in enhancing my knowledge in the following areas:
 
-- Machine Learning and Artificial Intelligence 🤖
-- Scalable Software Development 🚀
-- Cybersecurity 🔒
+- Machine Learning and Artificial Intelligence
+- Scalable Software Development
+- Cybersecurity
 
 Thank you for visiting my profile! If you have any questions or suggestions, feel free to get in touch.
 
