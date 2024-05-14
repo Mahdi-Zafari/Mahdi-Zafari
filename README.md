@@ -17,9 +17,8 @@ As a professional developer with extensive experience in various technologies, I
 
 ## 📧 Contact Me
 
-- **📩 Email:** mahdizafari@example.com
-- **🔗 LinkedIn:** [Mahdi Zafari](https://www.linkedin.com/in/mahdizafari)
-- **🐦 Twitter:** [@mahdizafari](https://twitter.com/mahdizafari)
+- **📩 Email:** zafarim880@gmail.com
+- **🐦 Twitter:** [@Mahdi_2600q](https://twitter.com/Mahdi_2600q)
 
 ## 🏆 Achievements and Honors
 
