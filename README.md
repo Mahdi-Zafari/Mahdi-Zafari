@@ -1,19 +1,31 @@
 # Mahdi Zafari
 
-👋 Hello! I'm Mahdi Zafari, a leading programmer and developer specializing in web and software development. Here, you can explore my projects, achievements, and contributions in the technology world.
+![Header](https://example.com/header-image.png)
 
-## About Me
+👋 **Hello!** I'm **Mahdi Zafari**, a leading programmer and developer specializing in web and software development. Here, you can explore my projects, achievements, and contributions in the technology world.
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=mahdi-zafari.mahdi-zafari)
+
+## 🚀 About Me
 
 As a professional developer with extensive experience in various technologies, I am passionate about creating innovative and effective solutions for complex problems. My expertise in multiple programming languages and tools enables me to successfully tackle challenging projects and achieve excellent results.
 
-### Skills
+### 🛠️ Skills
 
 - **Programming Languages:** Python, C#
 - **Web Development:** HTML, CSS, JavaScript, PHP
 - **Databases:** SQL, MongoDB
 - **Frameworks and Tools:** Django, Flask, ASP.NET, Node.js, React
 
-## Projects
+## 📈 GitHub Stats
+
+![Mahdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdi-zafari&show_icons=true&theme=radical)
+
+## 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=mahdi-zafari&theme=onedark)
+
+## 💼 Projects
 
 ### Project Management System
 
@@ -45,22 +57,27 @@ This project is a complete e-commerce platform that allows vendors to sell their
     - **Solution:** Optimized database queries and utilized advanced search techniques in MySQL for quick and precise results
 - **Link to Project or Online Demo:** [Demo E-commerce Platform](https://example.com/e-commerce-demo)
 
-## Contact Me
+## 📬 Contact Me
 
-- **Email:** zafarim880@gamil.com
+- **Email:** mahdizafari@example.com
+- **LinkedIn:** [Mahdi Zafari](https://www.linkedin.com/in/mahdizafari)
 - **Twitter:** [@mahdizafari](https://twitter.com/mahdizafari)
 
-## Achievements and Honors
+## 🏅 Achievements and Honors
 
 - **Successful Projects:** Executed large and complex projects successfully and received positive feedback from clients.
 - **Innovation and Creativity:** Developed unique solutions for technical problems and enhanced system efficiency.
 - **Team Leadership:** Managed and led development teams to achieve project goals on time.
 
-## Future Goals
+## 🎯 Future Goals
 
 I am always eager to learn and develop new skills. Currently, I am interested in enhancing my knowledge in the following areas:
 - Machine Learning and Artificial Intelligence
 - Scalable Software Development
 - Cybersecurity
+
+![Footer](https://example.com/footer-image.png)
+
+---
 
 Thank you for visiting my profile! If you have any questions or suggestions, feel free to get in touch.
