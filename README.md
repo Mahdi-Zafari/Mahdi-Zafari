@@ -1,10 +1,6 @@
 # Mahdi Zafari
 
-![Header](https://example.com/header-image.png)
-
 👋 **Hello!** I'm **Mahdi Zafari**, a leading programmer and developer specializing in web and software development. Here, you can explore my projects, achievements, and contributions in the technology world.
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=mahdi-zafari.mahdi-zafari)
 
 ## 🚀 About Me
 
@@ -16,14 +12,6 @@ As a professional developer with extensive experience in various technologies, I
 - **Web Development:** HTML, CSS, JavaScript, PHP
 - **Databases:** SQL, MongoDB
 - **Frameworks and Tools:** Django, Flask, ASP.NET, Node.js, React
-
-## 📈 GitHub Stats
-
-![Mahdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahdi-zafari&show_icons=true&theme=radical)
-
-## 🏆 GitHub Trophies
-
-![trophy](https://github-profile-trophy.vercel.app/?username=mahdi-zafari&theme=onedark)
 
 ## 💼 Projects
 
@@ -75,8 +63,6 @@ I am always eager to learn and develop new skills. Currently, I am interested in
 - Machine Learning and Artificial Intelligence
 - Scalable Software Development
 - Cybersecurity
-
-![Footer](https://example.com/footer-image.png)
 
 ---
 
