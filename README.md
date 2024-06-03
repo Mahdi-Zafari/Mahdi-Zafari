@@ -10,9 +10,9 @@ As a professional developer with extensive experience in various technologies, I
 
 ## 🛠️ Skills
 
-- **Programming Languages:** Python 🐍, C# ⌨️
-- **Web Development:** HTML 🌐, CSS 🎨, JavaScript 🖥️, PHP 🌐
-- **Databases:** SQL 📊, MongoDB 📂
+- **Programming Languages:** Python 🐍, C# ⌨️, C++ ⌨️
+- **Web Development:** HTML 🌐, CSS 🎨, JavaScript 🖥️, PHP 🌐, AJAX 🔄
+- **Databases:** SQL 📊, MongoDB 📂, MySQL 🛢️
 - **Frameworks and Tools:** Django 🎻, Flask 🌿, ASP.NET 🛡️, Node.js 🚀, React ⚛️
 
 ## 📧 Contact Me
